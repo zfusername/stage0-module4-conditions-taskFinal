@@ -13,5 +13,4 @@ public class IntegerDivider {
         String result = (multipliedResult == dividend) ? "can be divided completely" : "cannot be divided completely";
         System.out.println(result);
     }
-    }
 }
